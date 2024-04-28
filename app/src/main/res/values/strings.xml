@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProjCalculaIdade</string>
+    <string name="sTitulo">Qual a sua Idade?</string>
+    <string name="dtNascimento">Ano-Mês-Dia</string>
+    <string name="sIdade">Idade:</string>
+    <string name="sIdadeCompleta">Idade Completa:</string>
+    <string name="btnDescobrir">Descobrir</string>
+</resources>
